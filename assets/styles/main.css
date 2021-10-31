@@ -289,3 +289,8 @@ a {
         width: 90%;
     }
 }
+
+@font-face {
+    font-family: 'CothamSans';
+    src: url(/assets/fonts/CothamSans/CothamSans.woff) format("woff"), url(/assets/fonts/CothamSans/CothamSans.ttf) format("truetype");
+  }
